@@ -78,7 +78,3 @@ Model comparison and evaluation.
 
 main.ipynb
 Main modeling workflow.
-
-## Authors
-
-Listed in the report
