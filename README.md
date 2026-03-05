@@ -63,3 +63,18 @@ A small number of features capture most of the predictive signal, notably:
 Lagged realized volatility remains the strongest predictor. Combining a linear model with Random Forest predictions produced the best balance between prediction accuracy and ranking performance.
 
 ## Repository Structure
+
+data.ipynb
+Loads and prepares the dataset.
+
+eda.ipynb
+Exploratory analysis of volatility and microstructure features.
+
+comparaison.ipynb
+Feature engineering and dataset preparation.
+
+benchmark.ipynb
+Model comparison and evaluation.
+
+main.ipynb
+Main modeling workflow.
