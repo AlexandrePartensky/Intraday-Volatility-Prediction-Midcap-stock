@@ -2,7 +2,7 @@
 
 This repository contains the code for a project on forecasting short-horizon intraday volatility for U.S. mid-cap stocks. The goal is to predict realized volatility 30 minutes ahead using limit-order book features and lagged volatility signals.
 
-The work was done as part of an industry project with J.P. Morgan and is documented in the accompanying report. :contentReference[oaicite:0]{index=0}
+The work was done as part of an industry project with J.P. Morgan and is documented in the accompanying report/
 
 ## Project Overview
 
@@ -18,7 +18,7 @@ The target variable is the **30-minute ahead realized variance**, computed from 
 
 ## Data
 
-The dataset consists of limit-order book snapshots sampled every 30 minutes for **25 U.S. mid-cap stocks** between **May and September 2025**. :contentReference[oaicite:1]{index=1}
+The dataset consists of limit-order book snapshots sampled every 30 minutes for **25 U.S. mid-cap stocks** between **May and September 2025**. 
 
 From these snapshots we construct microstructure features such as:
 
